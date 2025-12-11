@@ -2,9 +2,14 @@
 
 ## Artificial Intelegence
 - [Why LLMs are less intelligent than crows](https://hackaday.com/2025/12/10/why-llms-are-less-intelligent-than-crows/)
+- [explainable AI](https://www.codecademy.com/learn/ext-courses/explainable-ai)
+- [Intro to AI coding with cursor](https://www.codecademy.com/learn/intro-to-ai-coding-with-cursor)
+- [Generative AI Models: Getting Started with Autoencoders](https://www.codecademy.com/learn/ext-courses/generative-ai-models-getting-started-with-autoencoders)
+- [Intro to MCP Servers](https://www.codecademy.com/learn/intro-to-mcp-servers)
 ### Deep Learning
 - [Fast AI Course](https://course.fast.ai/)
 - [deeplearning.ai](https://www.deeplearning.ai/)
+- [Intro to Large Language Models](https://www.codecademy.com/learn/intro-to-llms)
 ### Reinforcement Learning
 - [Book](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf)
 ## Compilers
