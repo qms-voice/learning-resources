@@ -1,8 +1,10 @@
 # Learning Resources
 
 ## Artificial Intelegence
+- [Why LLMs are less intelligent than crows](https://hackaday.com/2025/12/10/why-llms-are-less-intelligent-than-crows/)
 ### Deep Learning
 - [Fast AI Course](https://course.fast.ai/)
+- [deeplearning.ai](https://www.deeplearning.ai/)
 ### Reinforcement Learning
 ## Compilers
 - [MLIR Summer School](https://mlir-school.github.io/schedule/)
