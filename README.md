@@ -6,6 +6,7 @@
 - [Fast AI Course](https://course.fast.ai/)
 - [deeplearning.ai](https://www.deeplearning.ai/)
 ### Reinforcement Learning
+- [Book](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf)
 ## Compilers
 - [MLIR Summer School](https://mlir-school.github.io/schedule/)
 ## Programming Languages
